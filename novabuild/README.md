@@ -69,27 +69,24 @@ npm run build
 
 ## 📸 Screenshots
 
-* Home Page
-* About Page
-* Contact Page
+### Home
 
-(Add screenshots here)
+![Home](screenshots/home.png)
+
+### About
+
+![About](screenshots/about.png)
+
+### Contact
+
+![Contact](screenshots/contact.png)
 
 ---
 
 ## 👨‍💻 Author
+
 Devika
 
-## Screenshots
-
-### Home
-![Home](screenshots/home.png)
-
-### About
-![About](screenshots/about.png)
-
-### Contact
-![Contact](screenshots/contact.png)
 
 
 
