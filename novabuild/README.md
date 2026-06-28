@@ -78,5 +78,28 @@ npm run build
 ---
 
 ## 👨‍💻 Author
-
 Devika
+
+## Screenshots
+
+### Home
+![Home](screenshots/home.png)
+
+### About
+![About](screenshots/about.png)
+
+### Contact
+![Contact](screenshots/contact.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
